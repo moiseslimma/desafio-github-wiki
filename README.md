@@ -1,4 +1,4 @@
-# Desafio02 GitHub Wiki
+# GitHub Wiki
 
 Este projeto é uma aplicação React que permite buscar repositórios no GitHub. A aplicação utiliza a API do GitHub para obter informações sobre os repositórios.
 
